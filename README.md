@@ -27,9 +27,6 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
   - Investigated the effect of strain enhancing oxygen mobility in quaternary perovskite materials through automated workflows.
   - Practical guidelines and recommendations for future synthesis approaches.
 
-- **[Extrinsic Piezoelectricity in HZO-thin films](https://github.com/armmorin/hafnia)**
-  - Collaborative approach aimed at understanding the nature of the piezoelectric effect created on strained HZO thin films through computational methods.
-
 
 [## ✨ Outside the Lab]: #
 
