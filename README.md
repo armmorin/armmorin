@@ -19,13 +19,13 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
 
 ## 🔎 Featured Projects
 
-- **[High-throughput Screening for Low-Temperature Oxide-Ion Conductors](https://github.com/armmorin/workflow)**
-  - Automated and optimized the screening of new oxide ion conductors using custom Python workflows and high-performance computing environments.
-  - Explored collaborative work with experimentalists to validate computational insights.
-
 - **[Strain Engineering of Hexagonal Perovskites for Enhanced Oxide-Ion Conductivity](https://github.com/armmorin/strained)**
   - Investigated the effect of strain enhancing oxygen mobility in quaternary perovskite materials through automated workflows.
   - Practical guidelines and recommendations for future synthesis approaches.
+
+- **[High-throughput Screening for Low-Temperature Oxide-Ion Conductors](https://github.com/armmorin/workflow)**
+  - Automated and optimized the screening of new oxide ion conductors using custom Python workflows and high-performance computing environments.
+  - Explored collaborative work with experimentalists to validate computational insights.
 
 
 [## ✨ Outside the Lab]: #
