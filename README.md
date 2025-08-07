@@ -8,7 +8,7 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
 - Fluent in Python and Linux, with expertise in scripting, data wrangling, and large-scale distributed computing. Familiar with scientific software like VASP, and GPAW, and the setup and management of scheduled jobs on HPC systems.
 - Background in physical chemistry, materials science, and computational modeling.
 - Committed collaborator, bridging the gap between computational and experimental teams to enhance understanding of ion diffusion and complex material phenomena.
-- Enthusiastic about data pipelines, CI/CD practices, Docker, and the modern data engineering stack. Always learning and growing.
+- Always learning and growing.
 
 ## 🧰 Technical Skills
 
