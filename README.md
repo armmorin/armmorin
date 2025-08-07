@@ -29,11 +29,6 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
   - Practical guidelines and recommendations for future synthesis approaches.
 
 
-- **[Extrinsic Piezoelectricity in HZO-thin films](https://github.com/armmorin/hafnia)**
-
-  - Collaborative approach aimed at understanding the nature of the piezoelectric effect created on HZO thin films through computational methods.
-
-
 ## ✨ Outside the Lab
 
 [- Passionate about community: ran the Friday bar at DTU, led international KFUM scout troops, and managed an international student guesthouse.]: #
