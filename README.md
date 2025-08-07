@@ -1,6 +1,6 @@
 # Hi, I'm Armando
 
-Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passionate about solving complex problems at the intersection of materials science, computational modeling, and data engineering.
+Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passionate about solving complex problems at the intersection of materials science, computational modeling, and data engineering. Here, I will showcase some of my featured projects along my learning journey.
 
 ## 🚀 About Me
 
@@ -12,8 +12,8 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
 
 ## 🧰 Technical Skills
 
-- **Programming:** Python, Shell scripting, SQL
-- **Tools & Platforms:** Linux, HPC clusters, Docker
+- **Programming:** Python, Shell scripting, SQL (actively learning)
+- **Tools & Platforms:** Linux, HPC clusters, Docker, CI/CD and Cloud Computing (actively learning)
 - **Applications:** DFT (VASP, GPAW), Workflow Automation, Data Processing, Feature Engineering
 - **Other:** Data visualization & analysis, teaching/mentoring, cross-functional teamwork
 
@@ -28,14 +28,6 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
   - Explored collaborative work with experimentalists to validate computational insights.
 
 
-[## ✨ Outside the Lab]: #
-
-[- Passionate about community: ran the Friday bar at DTU, led international KFUM scout troops, and managed an international student guesthouse.]: #
-
-[- Former taekwondo instructor (black belt), fostering growth and discipline among youth and beginners.]: #
-
-[- Science advocate: organized public workshops and science experiments for children.]: #
-
 ## 📫 Get in Touch
 
 Feel free to reach out!
@@ -43,4 +35,3 @@ Feel free to reach out!
 Let's connect on [LinkedIn](https://www.linkedin.com/in/morinmtz)
 
 Thanks for visiting my profile!
-
