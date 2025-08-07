@@ -23,18 +23,15 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
   - Automated and optimized the screening of new oxide ion conductors using custom Python workflows and high-performance computing environments.
   - Explored collaborative work with experimentalists to validate computational insights.
 
-
 - **[Strain Engineering of Hexagonal Perovskites for Enhanced Oxide-Ion Conductivity](https://github.com/armmorin/strained)**
-  - Investigated the effect of strain enhancing oxygen mobility in quaternary perovskite materials.
+  - Investigated the effect of strain enhancing oxygen mobility in quaternary perovskite materials through automated workflows.
   - Practical guidelines and recommendations for future synthesis approaches.
 
-
 - **[Extrinsic Piezoelectricity in HZO-thin films](https://github.com/armmorin/hafnia)**
+  - Collaborative approach aimed at understanding the nature of the piezoelectric effect created on strained HZO thin films through computational methods.
 
-  - Collaborative approach aimed at understanding the nature of the piezoelectric effect created on HZO thin films through computational methods.
 
-
-## ✨ Outside the Lab
+[## ✨ Outside the Lab]: #
 
 [- Passionate about community: ran the Friday bar at DTU, led international KFUM scout troops, and managed an international student guesthouse.]: #
 
@@ -46,8 +43,7 @@ Welcome to my portfolio! I’m a multidisciplinary scientist and engineer passio
 
 Feel free to reach out!
 
-- [Email or LinkedIn link]
-- [Personal website, if any]
+Let's connect on [LinkedIn](https://www.linkedin.com/in/morinmtz)
 
 Thanks for visiting my profile!
 
